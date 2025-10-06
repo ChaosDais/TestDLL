@@ -1,0 +1,13 @@
+C:\Users\poken\source\repos\TestManagedPlugin\TestManagedPlugin\bin\Debug\netstandard2.1\TestManagedPlugin.deps.json
+C:\Users\poken\source\repos\TestManagedPlugin\TestManagedPlugin\bin\Debug\netstandard2.1\TestManagedPlugin.dll
+C:\Users\poken\source\repos\TestManagedPlugin\TestManagedPlugin\bin\Debug\netstandard2.1\TestManagedPlugin.pdb
+C:\Users\poken\source\repos\TestManagedPlugin\TestManagedPlugin\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\poken\source\repos\TestManagedPlugin\TestManagedPlugin\bin\Debug\netstandard2.1\UnityEngine.xml
+C:\Users\poken\source\repos\TestManagedPlugin\TestManagedPlugin\obj\Debug\netstandard2.1\TestManagedPlugin.csproj.AssemblyReference.cache
+C:\Users\poken\source\repos\TestManagedPlugin\TestManagedPlugin\obj\Debug\netstandard2.1\TestManagedPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poken\source\repos\TestManagedPlugin\TestManagedPlugin\obj\Debug\netstandard2.1\TestManagedPlugin.AssemblyInfoInputs.cache
+C:\Users\poken\source\repos\TestManagedPlugin\TestManagedPlugin\obj\Debug\netstandard2.1\TestManagedPlugin.AssemblyInfo.cs
+C:\Users\poken\source\repos\TestManagedPlugin\TestManagedPlugin\obj\Debug\netstandard2.1\TestManagedPlugin.csproj.CoreCompileInputs.cache
+C:\Users\poken\source\repos\TestManagedPlugin\TestManagedPlugin\obj\Debug\netstandard2.1\TestMana.CF5B2F69.Up2Date
+C:\Users\poken\source\repos\TestManagedPlugin\TestManagedPlugin\obj\Debug\netstandard2.1\TestManagedPlugin.dll
+C:\Users\poken\source\repos\TestManagedPlugin\TestManagedPlugin\obj\Debug\netstandard2.1\TestManagedPlugin.pdb
